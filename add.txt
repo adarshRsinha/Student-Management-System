@@ -1,0 +1,3 @@
+Function: addStudent()
+
+Description: Adds a new student to the database.

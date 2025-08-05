@@ -1,0 +1,2 @@
+Function: editStudent()
+Description: Edit a exisiting student to the database.
