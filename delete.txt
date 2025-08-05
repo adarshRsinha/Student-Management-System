@@ -1,0 +1,2 @@
+Function: deleteStudent()
+Description: Remove a student from the database.
